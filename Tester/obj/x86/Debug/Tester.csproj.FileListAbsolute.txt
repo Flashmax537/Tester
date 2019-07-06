@@ -1,0 +1,45 @@
+C:\Users\Admin\Desktop\Tester\Tester\bin\Debug\Tester.exe
+C:\Users\Admin\Desktop\Tester\Tester\bin\Debug\Tester.pdb
+C:\Users\Admin\Desktop\Tester\Tester\bin\Debug\mark.dll
+C:\Users\Admin\Desktop\Tester\Tester\bin\Debug\mark.pdb
+C:\Users\Admin\Desktop\Tester\Tester\obj\x86\Debug\Tester.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Tester\Tester\obj\x86\Debug\Tester.Form1.resources
+C:\Users\Admin\Desktop\Tester\Tester\obj\x86\Debug\Tester.Form2.resources
+C:\Users\Admin\Desktop\Tester\Tester\obj\x86\Debug\Tester.Form3.resources
+C:\Users\Admin\Desktop\Tester\Tester\obj\x86\Debug\Tester.Form4.resources
+C:\Users\Admin\Desktop\Tester\Tester\obj\x86\Debug\Tester.Form5.resources
+C:\Users\Admin\Desktop\Tester\Tester\obj\x86\Debug\Tester.Form6.resources
+C:\Users\Admin\Desktop\Tester\Tester\obj\x86\Debug\Tester.Properties.Resources.resources
+C:\Users\Admin\Desktop\Tester\Tester\obj\x86\Debug\Tester.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Tester\Tester\obj\x86\Debug\Tester.exe
+C:\Users\Admin\Desktop\Tester\Tester\obj\x86\Debug\Tester.pdb
+C:\Users\Admin\Desktop\My kursach\Tester\Tester\obj\x86\Debug\Tester.exe
+C:\Users\Admin\Desktop\My kursach\Tester\Tester\obj\x86\Debug\Tester.pdb
+C:\Users\Admin\Desktop\My kursach\Tester\Tester\bin\Debug\Tester.exe
+C:\Users\Admin\Desktop\My kursach\Tester\Tester\bin\Debug\Tester.pdb
+C:\Users\Admin\Desktop\My kursach\Tester\Tester\bin\Debug\mark.pdb
+C:\Users\Admin\Desktop\My kursach\Tester\Tester\obj\x86\Debug\Tester.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\My kursach\Tester\Tester\obj\x86\Debug\Tester.Form1.resources
+C:\Users\Admin\Desktop\My kursach\Tester\Tester\obj\x86\Debug\Tester.Form2.resources
+C:\Users\Admin\Desktop\My kursach\Tester\Tester\obj\x86\Debug\Tester.Form3.resources
+C:\Users\Admin\Desktop\My kursach\Tester\Tester\obj\x86\Debug\Tester.Form4.resources
+C:\Users\Admin\Desktop\My kursach\Tester\Tester\obj\x86\Debug\Tester.Form5.resources
+C:\Users\Admin\Desktop\My kursach\Tester\Tester\obj\x86\Debug\Tester.Form6.resources
+C:\Users\Admin\Desktop\My kursach\Tester\Tester\obj\x86\Debug\Tester.Properties.Resources.resources
+C:\Users\Admin\Desktop\My kursach\Tester\Tester\obj\x86\Debug\Tester.csproj.GenerateResource.Cache
+C:\Tester\Tester\bin\Debug\Tester.exe
+C:\Tester\Tester\bin\Debug\Tester.pdb
+C:\Tester\Tester\bin\Debug\mark.pdb
+C:\Tester\Tester\obj\x86\Debug\Tester.csprojAssemblyReference.cache
+C:\Tester\Tester\obj\x86\Debug\Tester.Form1.resources
+C:\Tester\Tester\obj\x86\Debug\Tester.Form2.resources
+C:\Tester\Tester\obj\x86\Debug\Tester.Form3.resources
+C:\Tester\Tester\obj\x86\Debug\Tester.Form4.resources
+C:\Tester\Tester\obj\x86\Debug\Tester.Form5.resources
+C:\Tester\Tester\obj\x86\Debug\Tester.Form6.resources
+C:\Tester\Tester\obj\x86\Debug\Tester.Properties.Resources.resources
+C:\Tester\Tester\obj\x86\Debug\Tester.csproj.GenerateResource.cache
+C:\Tester\Tester\obj\x86\Debug\Tester.csproj.CoreCompileInputs.cache
+C:\Tester\Tester\obj\x86\Debug\Tester.csproj.CopyComplete
+C:\Tester\Tester\obj\x86\Debug\Tester.exe
+C:\Tester\Tester\obj\x86\Debug\Tester.pdb
